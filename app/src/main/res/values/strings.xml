@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">POSTiT</string>
+    <string name="stop">STOP</string>
+    <string name="start">START</string>
+    <string name="post_code">Post Code:</string>
+    <string name="scaning">Scaning..</string>
+    <string name="flash">FLASH</string>
+    <string name="postit_id">POSTiT ID:</string>
+    <string name="post_name">Post Name:</string>
+</resources>
